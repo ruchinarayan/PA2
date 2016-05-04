@@ -1,3 +1,5 @@
-I have submitted PA2 with Michael Hollister:
+I have submitted PA2 and PA3 with Michael Hollister:
 
-https://github.com/mike-seagull/pa2
+PA2: https://github.com/mike-seagull/pa2
+
+PA3: https://github.com/mike-seagull/pa3
